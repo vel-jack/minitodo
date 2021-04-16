@@ -1,16 +1,25 @@
-# minitodo
+## Mini Todo
 
-A new Flutter project.
+Mini Todo is an android application developed using flutter. It designed with simple user interface with dark and light theme. No major permissions required. 
 
-## Getting Started
+![screenshot](https://github.com/vel-jack/nothingbox/raw/master/sampledata/overall.png)
+**Features:**
+- Add to-do with 8 different category.
+- Supports reminder notifications.
+- Add shorts notes for the to-do.
+- Add sub tasks within the to-do.
+- Sort by categories.
+- Supports light and dark theme.
 
-This project is a starting point for a Flutter application.
+**Plugins used:**
+- [backdrop](https://pub.dev/packages/backdrop) (To create backdrop app bar)
+- [hive](https://pub.dev/packages/hive) (To save the user data)
+- [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) (To notify the tasks to the user)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Get it on  [google play](https://play.google.com/store/apps/details?id=com.emptybox.minitodo)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![icon](https://play-lh.googleusercontent.com/KOeCXxZeh3cmsWDLlptkjp9iOxz3bevlGf7sz7W1cxEuPGluTE1ZbuLXY5AMQGS6lBRM=s50)\
+Watch App demo video\
+[![minitodo](https://img.youtube.com/vi/Eo6gu8itGzc/0.jpg)](https://www.youtube.com/watch?v=Eo6gu8itGzc)\
+[privacy policy](https://vel-jack.github.io/nothingbox/policy/minitodo)
